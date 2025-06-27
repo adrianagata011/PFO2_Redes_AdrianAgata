@@ -26,17 +26,17 @@ Desarrollar una API REST utilizando **Flask** y **SQLite**, que permita registra
 
 ## 📁 Estructura del proyecto
 
-PFO2_Redes_AdriánAgata/
-├── servidor.py
-├── tareas.db
-├── templates/
-│ └── bienvenida.html
-├── img/
-│ ├── registro.png
-│ ├── login.png
-│ └── tareas.png
-├── README.md
-└── requirements.txt
+PFO2_Redes_AdriánAgata/<br>
+├── servidor.py<br>
+├── tareas.db<br>
+├── templates/<br>
+│ └── bienvenida.html<br>
+├── img/<br>
+│ ├── registro.png<br>
+│ ├── login.png<br>
+│ └── tareas.png<br>
+├── README.md<br>
+└── requirements.txt<br>
 
 
 ---
