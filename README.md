@@ -122,15 +122,6 @@ SQLite es una base de datos liviana, de tipo embebido, que no requiere instalaci
 
 ---
 
-## ✅ Estado del proyecto
-✔ Registro funcionando<br>
-✔ Login funcionando<br>
-✔ Página HTML dinámica mostrando usuarios y hashes<br>
-✔ Pruebas realizadas con curl y Postman<br>
-✔ Documentación completa<br>
-
----
-
 ## 🚀 Publicación
 El proyecto fue subido a GitHub y puede ser consultado desde:<br>
 🔗 [Repositorio en GitHub](https://github.com/adrianagata011/PFO2_Redes_AdrianAgata)
