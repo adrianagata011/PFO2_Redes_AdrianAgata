@@ -45,6 +45,7 @@ PFO2_Redes_AdriánAgata/<br>
 
 1. Clonar el repositorio:
 ```bash
+git init
 git clone https://github.com/adrianagata011/PFO2_Redes_AdrianAgata.git
 cd PFO2_Redes_AdrianAgata
 ```
