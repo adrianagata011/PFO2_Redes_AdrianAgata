@@ -38,7 +38,6 @@ PFO2_Redes_AdriánAgata/<br>
 ├── README.md<br>
 └── requirements.txt<br>
 
-
 ---
 
 ## ⚙️ Cómo ejecutar el proyecto
