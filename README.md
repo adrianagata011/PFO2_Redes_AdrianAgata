@@ -114,10 +114,10 @@ Devuelve una página HTML que muestra los usuarios registrados y sus hashes de c
 
 ##❓ Respuestas conceptuales
 
-¿Por qué hashear contraseñas?
+¿Por qué hashear contraseñas?<br>
 Porque guardar contraseñas en texto plano es una mala práctica de seguridad. Si la base de datos es comprometida, los atacantes tendrían acceso directo a las credenciales. El hashing transforma la contraseña en una cadena irreversible, haciendo que incluso si se filtra, no sea utilizable. Además, los hashes usan salts (semillas) que dificultan ataques de diccionario o rainbow tables.
 
-¿Por qué usar SQLite para este proyecto?
+¿Por qué usar SQLite para este proyecto?<br>
 SQLite es una base de datos liviana, de tipo embebido, que no requiere instalación ni configuración de servidor. Ideal para proyectos pequeños o educativos, permite almacenar datos persistentes en un solo archivo. Es portable, simple de usar y cumple con todos los requisitos para esta práctica.
 
 ---
