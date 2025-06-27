@@ -102,13 +102,13 @@ Devuelve una página HTML que muestra los usuarios registrados y sus hashes de c
 ## 🧪 Capturas de pantalla
 
 - Registro de usuario:  
-  ![Registro](img/POST_registro.png)
+  ![Registro](img/POST_registro.jpg)
 
 - Inicio de sesión:  
-  ![Login](img/POST_login.png)
+  ![Login](img/POST_login.jpg)
 
 - Página HTML de bienvenida:  
-  ![Tareas](img/GET_tareas.png)
+  ![Tareas](img/GET_tareas.jpg)
 
 ---
 
