@@ -70,7 +70,7 @@ python servidor.py
 
 ## 🔗 Endpoints disponibles
 
-### POST /registro
+### POST http://127.0.0.1:5000/registro
 Registra un nuevo usuario.
 
 Body (JSON):
@@ -82,7 +82,7 @@ Body (JSON):
 }
 ```
 
-### POST /login
+### POST http://127.0.0.1:5000/login
 Verifica las credenciales del usuario.
 
 Body (JSON):
@@ -94,7 +94,7 @@ Body (JSON):
 }
 ```
 
-### GET /tareas
+### GET http://localhost:5000/tareas
 Devuelve una página HTML que muestra los usuarios registrados y sus hashes de contraseña.
 
 ---
